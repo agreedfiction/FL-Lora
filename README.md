@@ -19,6 +19,19 @@ This project simulates a federated environment where multiple clients train a gl
 
 ## ⚙️ Setup & Installation
 1. **Clone the repository:**
-   ```bash
    git clone [https://github.com/agreedfiction/FL-Lora.git](https://github.com/agreedfiction/FL-Lora.git)
    cd FL-Lora
+   
+3. **Install dependencies:**
+pip install -r requirements.txt
+
+3. **Run the Simulation:**
+python main.py
+
+## 🧠 Core Concepts Explored
+
+ -Federated Averaging (FedAvg): Aggregating local weights to update the global model.
+
+ -Parameter-Efficient Fine-Tuning (PEFT): Optimizing model weights using rank-decomposition matrices.
+
+ -Communication Efficiency: Minimizing data transfer between server and clients.
