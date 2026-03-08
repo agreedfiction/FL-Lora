@@ -19,8 +19,7 @@ This project simulates a federated environment where multiple clients train a gl
 
 ## ⚙️ Setup & Installation
 1. **Clone the repository:**
-   git clone [https://github.com/agreedfiction/FL-Lora.git](https://github.com/agreedfiction/FL-Lora.git)
-   cd FL-Lora
+   git clone https://github.com/agreedfiction/FL-Lora.git
    
 3. **Install dependencies:**
 pip install -r requirements.txt
