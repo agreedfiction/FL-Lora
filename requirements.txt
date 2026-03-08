@@ -1,0 +1,6 @@
+flwr[simulation]==1.8.0
+torch
+transformers
+peft
+datasets
+accelerate
